@@ -1,7 +1,7 @@
 Challenge PHP Senior 2018
 =========
 
-Esse repositório tem uma solução técnica para o desafio de uma vaga para Dev Sênior na Holanda aplicado em 2018. Nenhuma atualização foi feita desde então, então use como estudo levando em consideração que é "uma obra fruto do seu tempo" e contém códigos que seriam implementados de outra forma hoje em dia.
+Esse repositório tem uma solução técnica para um desafio de uma vaga para Dev Sênior na Holanda aplicado em 2018. Nenhuma atualização foi feita desde então, então use como estudo levando em consideração que é "uma obra fruto do seu tempo" contendo códigos que seriam implementados de outra forma hoje em dia.
 
 ### YouTube 
 

@@ -1,0 +1,7 @@
+index:
+   path: /
+   controller: App\Controller\DefaultController::index
+
+predictions:
+   path: /predictions
+   controller: App\Controller\DefaultController::listPredictions

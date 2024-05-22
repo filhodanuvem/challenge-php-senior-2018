@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=2p9bqY4bTr8
 
 Depois deste, que tal estudar com outros tipos de desafios com solução? Acesse [devgym.com.br](https://app.devgym.com.br?utm_campaign=phpsenior2018&utm_medium=social&utm_source=github). 
 
-[![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png)](https://app.devgym.com.br?utm_campaign=rinhaback&utm_medium=social&utm_source=github)
+[![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png)](https://app.devgym.com.br?utm_campaign=phpsenior2018&utm_medium=social&utm_source=github)
